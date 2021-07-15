@@ -1,0 +1,13 @@
+Assignment 1. 201501
+
+Write and test classes BinaryTree<E>, BinarySearchTree<E> and AVLTree<E>.
+AVLTree extends BinarySearchTree which extends BinaryTree.
+
+You MUST use BinarySearchTree from the faculty drive modifying it to account for type parameter E.
+
+Test all classes on randomly generated list of insertions, searches and deletions of Strings.
+Test the 3 tree traversals as well for all classes.
+
+Recommendation: Start with modifying BinarySearchTree class.
+
+Assignment 1 is due 2/16/2015, 6am.
